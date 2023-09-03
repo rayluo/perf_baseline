@@ -9,6 +9,10 @@ to detect performance regression based on your specified threshold.
 therefore your performance won't suffer from gradual decline.)
 
 
+## Installation
+
+`pip install perf_baseline`
+
 ## Usage
 
 Let's say your project contains some important functions like this:
